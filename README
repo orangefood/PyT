@@ -1,0 +1,3 @@
+pyt is a simple python templeting package.  The driving philosophy behind
+the design is simplicity.  To that end the templeting system introduces a
+minimum markup to HTML.
